@@ -1,7 +1,6 @@
 # TollReady PH
 
-Philippine Expressway Route Planner & Toll Fee Calculator — **Phase 2+: real routes and toll calculation for all major Luzon expressways** (free; no API key required).
-
+Philippine Expressway Route Planner & Toll Fee Calculator 
 Next.js (App Router) · React 19 · TypeScript · Tailwind CSS v4 · Lucide · Leaflet
 
 ## Run
